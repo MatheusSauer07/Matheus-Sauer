@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Uni5Ex1 {
+public class teste {
     public static void main(String[] args)  {
         
         Scanner leitor = new Scanner (System.in);
